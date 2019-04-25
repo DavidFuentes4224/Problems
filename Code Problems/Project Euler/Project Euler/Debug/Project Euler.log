@@ -1,0 +1,4 @@
+﻿  Problem3.cpp
+f:\code projects\problems\code problems\project euler\project euler\problem3.cpp(21): warning C4305: 'initializing': truncation from '__int64' to 'unsigned int'
+f:\code projects\problems\code problems\project euler\project euler\problem3.cpp(21): warning C4309: 'initializing': truncation of constant value
+  Project Euler.vcxproj -> F:\Code projects\Problems\Code Problems\Project Euler\Debug\Project Euler.exe
